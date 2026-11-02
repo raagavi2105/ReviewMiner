@@ -1,0 +1,23 @@
+{
+  "openai/gpt-oss-120b": {
+    "n": 80,
+    "accuracy": 0.975,
+    "failedCalls": 0,
+    "avgLatencyMs": 1244,
+    "avgTokensPerReview": 136
+  },
+  "openai/gpt-oss-20b": {
+    "n": 80,
+    "accuracy": 0.95,
+    "failedCalls": 0,
+    "avgLatencyMs": 1256,
+    "avgTokensPerReview": 127
+  },
+  "qwen/qwen3.8-27b": {
+    "n": 80,
+    "accuracy": 0.9875,
+    "failedCalls": 0,
+    "avgLatencyMs": 1495,
+    "avgTokensPerReview": 54
+  }
+}

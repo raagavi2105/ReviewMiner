@@ -1,0 +1,7 @@
+{
+  "n_train": 1362,
+  "n_test": 390,
+  "majority_baseline_acc": 0.717948717948718,
+  "lr_accuracy": 0.8743589743589744,
+  "lr_macro_f1": 0.8398679392319359
+}

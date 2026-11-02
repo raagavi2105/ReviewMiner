@@ -1,0 +1,26 @@
+{
+  "dataset": "SemEval-2014 Task 4 restaurants, single-theme sentences",
+  "n": 1752,
+  "humanThemes": [
+    "food",
+    "service",
+    "ambience",
+    "price"
+  ],
+  "embeddingsKMeans_k4": {
+    "nmi": 0.4244694220849554,
+    "ari": 0.3839915134810561,
+    "purity": 0.7888127853881278
+  },
+  "tfidfKMeans_k4": {
+    "nmi": 0.1915367936741232,
+    "ari": -0.011552856702343246,
+    "purity": 0.6289954337899544
+  },
+  "autoK": {
+    "chosenK": 3,
+    "silhouette": 0.057115118917274534,
+    "nmi": 0.47397820787480205,
+    "purity": 0.7734018264840182
+  }
+}
